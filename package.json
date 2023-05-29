@@ -1,0 +1,15 @@
+{
+  "name": "10---cypress-parameterized-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaveen Nayanajith",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
